@@ -1,8 +1,9 @@
-package Basics;
+package AssignmentJava;
 import java.util.Scanner;
 public class Areas {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		int area;
 		int length;
 		int breadth;
@@ -22,9 +23,6 @@ public class Areas {
 		
 		area = 6*(side*side);//Area of cube
 		System.out.println("area of cube is " + area);
-		
-
-
 	}
 
 }

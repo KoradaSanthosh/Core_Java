@@ -1,8 +1,9 @@
-package Basics;
+package AssignmentJava;
 import java.util.Scanner;
 public class NumberOfDays {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the month");
 		int month=sc.nextInt();
@@ -50,10 +51,11 @@ public class NumberOfDays {
 				
 				
 
-			}
+		}
 
-	
 
-	}
+
+
+}
 
 

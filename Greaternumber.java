@@ -1,11 +1,12 @@
-package Basics;
+package AssignmentJava;
+
 import java.util.Scanner;
 
 public class Greaternumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int num_1,num_2,num_3;
+int num_1,num_2,num_3;
 		
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the num_1: ");
@@ -23,10 +24,6 @@ public class Greaternumber {
 			System.out.println("num_3 is greater");
 		else
 			System.out.println("Given numbers are equal");
-			
-			
-			
-		
-		}
-				
+	}
+
 }
